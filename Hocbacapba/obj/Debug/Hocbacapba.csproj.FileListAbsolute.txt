@@ -1,0 +1,15 @@
+C:\Users\vta\source\repos\Hocbacapba\Hocbacapba\bin\Debug\Hocbacapba.exe.config
+C:\Users\vta\source\repos\Hocbacapba\Hocbacapba\bin\Debug\Hocbacapba.exe
+C:\Users\vta\source\repos\Hocbacapba\Hocbacapba\bin\Debug\Hocbacapba.pdb
+C:\Users\vta\source\repos\Hocbacapba\Hocbacapba\bin\Debug\EntityFramework.dll
+C:\Users\vta\source\repos\Hocbacapba\Hocbacapba\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vta\source\repos\Hocbacapba\Hocbacapba\bin\Debug\EntityFramework.xml
+C:\Users\vta\source\repos\Hocbacapba\Hocbacapba\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vta\source\repos\Hocbacapba\Hocbacapba\obj\Debug\Hocbacapba.csproj.AssemblyReference.cache
+C:\Users\vta\source\repos\Hocbacapba\Hocbacapba\obj\Debug\Hocbacapba.frmchitietHOCSINH.resources
+C:\Users\vta\source\repos\Hocbacapba\Hocbacapba\obj\Debug\Hocbacapba.frmHOCSINH.resources
+C:\Users\vta\source\repos\Hocbacapba\Hocbacapba\obj\Debug\Hocbacapba.Properties.Resources.resources
+C:\Users\vta\source\repos\Hocbacapba\Hocbacapba\obj\Debug\Hocbacapba.csproj.GenerateResource.cache
+C:\Users\vta\source\repos\Hocbacapba\Hocbacapba\obj\Debug\Hocbacapba.csproj.CoreCompileInputs.cache
+C:\Users\vta\source\repos\Hocbacapba\Hocbacapba\obj\Debug\Hocbacapba.exe
+C:\Users\vta\source\repos\Hocbacapba\Hocbacapba\obj\Debug\Hocbacapba.pdb
